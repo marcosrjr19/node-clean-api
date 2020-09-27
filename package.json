@@ -1,0 +1,8 @@
+{
+  "name": "node-clean-api",
+  "version": "1.0.0",
+  "description": "an node api using clean code and SOLID concepts",
+  "main": "index.js",
+  "author": "@marcosrjr19",
+  "license": "MIT"
+}
